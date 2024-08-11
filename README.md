@@ -20,7 +20,7 @@ PLATFORM USED
 • PHP
 
 
-Features
+FEATURES
 
 • Room Search and Booking
 
