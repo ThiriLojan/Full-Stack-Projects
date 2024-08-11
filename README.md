@@ -23,5 +23,7 @@ PLATFORM USED
 Features
 
 • Room Search and Booking
+
 • User-Friendly Interface
+
 • Booking Management
