@@ -23,7 +23,6 @@ This repository includes multiple full-stack applications designed to demonstrat
 
 Each project uses different tools and technologies, but the following tech stack is common across most of them:
 
----
 
 ### **Frontend:**
 
@@ -32,7 +31,6 @@ Each project uses different tools and technologies, but the following tech stack
 
 (Some projects may use additional libraries or frameworks like Bootstrap, Material UI, etc.)
 
----
 
 ### **Backend:**
 
@@ -40,7 +38,6 @@ Each project uses different tools and technologies, but the following tech stack
 - Express.js (For routing and API management)
 - PHP (For some older projects, e.g., Hotel Management System)
 
----
 
 ### **Databases:**
 
