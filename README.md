@@ -13,7 +13,7 @@ This repository includes multiple full-stack applications designed to demonstrat
    - A finance-related chatbot built with React for the frontend and Node.js for the backend. It processes financial queries and provides answers to users.
    - **Tech Stack**: React, Node.js, Natural Language Processing (NLP)
 
-2. **Hotel Management System**
+2. **[Hotel Management System](./Hotel_Management_System)**
 
    - A hotel management system to manage bookings, rooms, and customer information.
    - **Tech Stack**: PHP, MySQL (Backend), HTML, CSS, JavaScript (Frontend)
@@ -23,7 +23,6 @@ This repository includes multiple full-stack applications designed to demonstrat
 
 Each project uses different tools and technologies, but the following tech stack is common across most of them:
 
----
 
 ### **Frontend:**
 
@@ -32,7 +31,6 @@ Each project uses different tools and technologies, but the following tech stack
 
 (Some projects may use additional libraries or frameworks like Bootstrap, Material UI, etc.)
 
----
 
 ### **Backend:**
 
@@ -40,7 +38,6 @@ Each project uses different tools and technologies, but the following tech stack
 - Express.js (For routing and API management)
 - PHP (For some older projects, e.g., Hotel Management System)
 
----
 
 ### **Databases:**
 
